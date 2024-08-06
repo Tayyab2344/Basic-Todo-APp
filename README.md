@@ -1,6 +1,8 @@
 # React Todo App
 
-This is a simple Todo application built with React. It allows users to add, edit, delete, and toggle tasks. The application also uses local storage to persist todos between page reloads and provides a consistent user experience.
+This is a simple Todo application built with React. It allows users to add, edit, delete, and toggle tasks. The application also uses local storage to persist todos between page reloads and provides a consistent user experience.<br>
+## Live Link <br>
+https://todaappreact.netlify.app/
 
 ## Features
 
